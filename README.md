@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Hashiba</h1>
-<h3 align="center">Creative Technologist, Data Scientist & Cinematographer</h3>
+<h1 align="right">Hashiba</h1>
+<h3 align="right">Creative Technologist, Data Scientist & Cinematographer</h3>
 
 - 🔭 I’m currently working on [TSPCompare](https://github.com/Hashiba/TSPcompare)
   
